@@ -2,14 +2,14 @@
 
 ## Author
 
-[Brian-Kulei](https://github.com/Owiti-Charles)
+[Brian-Kulei](https://brian6382.github.io/agular_que/)
 
 ## Description
 
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
 ## Live Page 
-https://Owiti-charles.github.io/Quotes-app/ 
+https://brian6382.github.io/agular_que/
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
