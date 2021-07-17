@@ -2,7 +2,7 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Brian-Kulei](https://github.com/Owiti-Charles)
 
 ## Description
 
@@ -12,7 +12,7 @@ This is agular cli application that displays quotes, allow the user to input new
 https://Owiti-charles.github.io/Quotes-app/ 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
 
@@ -60,8 +60,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [briankulei98@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **brian Kulei**
