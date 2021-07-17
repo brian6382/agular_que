@@ -13,7 +13,7 @@ export class QuotesComponent implements OnInit {
     new Quote (2,'Brian','Technology…','Technology… the knack of so arranging  that we don’t have to experience it.','Max Frisch',new Date(2021,7,14),0,0),
     new Quote (3,'Mikey','The great myth','The great myth of our times is that technology is communication.','Libby Larsen',new Date(2021,7,3),0,0),
     new Quote (4,'Beatrice','Communication','Communications tools don’t get socially interesting until they get technologically boring.','Clay Shirky',new Date(2019,7,7),0,0),
-    new Quote (4,'Kelvin','Programming','Programming tools don’t get socially interesting until they get technologically boring.','Clay Shirky',new Date(2019,7,7),0,0)
+    new Quote (4,'Kelvin','Programming','Programming tools don’t get socially interesting until they get technologically boring.','Clay kulei',new Date(2019,7,7),0,0)
   ];
   get sortQuotes() {
     return this.quotes.sort((a, b) => {
