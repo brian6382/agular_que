@@ -1,10 +1,10 @@
-# QuotesApp
+## QuotesApp
 
-## Author
+### Author
 
 [Brian-Kulei](https://brian6382.github.io/agular_que/)
 
-## Description
+### Description
 
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
